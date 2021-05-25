@@ -1,4 +1,4 @@
-# Ethereum Bloom Filter
+# Vapory Bloom Filter
 
 [![Build Status](https://travis-ci.org/ethereum/eth-bloom.svg?branch=master)](https://travis-ci.org/ethereum/eth-bloom)
 [![PyPI version](https://badge.fury.io/py/eth-bloom.svg)](https://badge.fury.io/py/eth-bloom)
